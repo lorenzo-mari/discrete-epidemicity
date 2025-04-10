@@ -2,7 +2,7 @@ The scripts in this folder implement the basics of reactivity/epidemicity analys
 
 Specifically:
 - viral_infections.m provides an example of epidemicity analysis for a respiratory viral disease (COVID-19);
-- tickborne_zoonoses.m provides an example of epidemicity analysis for a tickborne infection (__Borrelia burgdorferi__ transmitted by __Ixodes ricinus__);
-- invasive_species.m provides an example of reactivity analysis for an invasive plant species (__Ailanthus altissima__).
+- tickborne_zoonoses.m provides an example of epidemicity analysis for a tickborne infection (_ _Borrelia burgdorferi_ _ transmitted by _ _Ixodes ricinus_ _);
+- invasive_species.m provides an example of reactivity analysis for an invasive plant species (_ _Ailanthus altissima_ _).
 
 All scripts have been developed and tested with MATLAB R2024b and require the Statistics and Machine Learning Toolbox. They are fully compatible with the online version of MATLAB, for which a free access option exists. Users looking for an open-source alternative can try with GNU Octave (https://octave.org/).
