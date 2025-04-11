@@ -1,4 +1,4 @@
-The scripts in this folder replicate the full set of reactivity/epidemicity analyses reported in the paper and reproduce all figures included within the main text and the supporting information (SI). Note that, in some cases, results are pre-calculated in order to save lengthy computational times. Users who whish to repeat all calculations should set the flag_comp variable equal to 1 in the relevant routines. 
+The scripts in this folder replicate the full set of reactivity/epidemicity analyses reported in the paper and reproduce all figures included within the main text and the supporting information (SI).
 
 Specifically:
 - plot_figures.m is the master script through which the individual routines (included in the scripts folder) that generate the figures are called; 
@@ -13,4 +13,4 @@ Specifically:
 - scripts/ticks_control_rnd.m generates Figure S12 in the SI (tickborne zoonoses, sensitivity analysis to parameter variability);
 - scripts/invasive_num.m generates Figure S13 in the SI (reactivity analysis for eight invasive plant species).
 
-All scripts have been developed and tested with MATLAB R2024b and require the Statistics and Machine Learning Toolbox. They are fully compatible with the online version of MATLAB, for which a free access option exists. Users looking for an open-source alternative can try with GNU Octave (https://octave.org/).
+Note that, in some cases, results are pre-calculated in order to save lengthy computational times. Users who whish to repeat all calculations should set the flag_comp variable equal to 1 in the relevant routines. 
