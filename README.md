@@ -3,7 +3,7 @@ Code to perform discrete reactivity/epidemicity analysis, as described in
 
 Lorenzo Mari, Cristiano Trevisin, Andrea Rinaldo, Marino Gatto (2025)  
 __Sufficient reproduction numbers to prevent recurrent epidemics__  
-_ _Methods in Ecology and Evolution_ _, in press
+_Methods in Ecology and Evolution_, in press
 
 The scripts in the `sample_script` folder implement the basics of reactivity/epidemicity analysis for the different case studies analyzed in the paper, while the scripts in the `figures_script` folder replicate the full set of reactivity/epidemicity analyses reported in the paper and reproduce all figures included within the main text and the supporting information. 
 
