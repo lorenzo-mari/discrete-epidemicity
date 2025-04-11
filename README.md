@@ -1,4 +1,6 @@
 # discrete_epidemicity
+[![DOI](https://zenodo.org/badge/653071662.svg)](https://doi.org/10.5281/zenodo.15194248)
+
 Code to perform discrete reactivity/epidemicity analysis, as described in 
 
 Lorenzo Mari, Cristiano Trevisin, Andrea Rinaldo, Marino Gatto (2025)  
